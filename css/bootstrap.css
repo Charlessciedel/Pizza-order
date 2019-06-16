@@ -6803,7 +6803,7 @@ a.close.disabled {
 .carousel-fade .carousel-item-next.carousel-item-left,
 .carousel-fade .carousel-item-prev.carousel-item-right {
   z-index: 1;
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .carousel-fade .active.carousel-item-left,
@@ -6934,7 +6934,8 @@ a.close.disabled {
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #fff;
+  color: rgb(109, 83, 11);
+    
   text-align: center;
 }
 
