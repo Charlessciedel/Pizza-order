@@ -1,3 +1,6 @@
+*{
+  font-family: 'Poiret One', cursive;
+}
 .selection-criterion{
     text-decoration: underline;
     text-align: left;
@@ -9,9 +12,9 @@
   
   .jumbotron{
     text-align: center;
-    background-color: white;
-    margin-left: -1%;
-    margin-right: -1.5%;
+    background-color: rgb(207, 103, 103);
+    margin-left: 1%;
+    margin-right: 1.5%;
     padding: 0;
     padding-top: 1%;
     /*font-size: 70;*/
@@ -49,7 +52,7 @@
   
   .pizza-item {
     cursor: pointer;
-    color: #0088cc;
+    color: #7cb943;
   }
   
   .pizza-item:hover {
@@ -63,7 +66,7 @@
   
   #backgammon-img{
     height: 100px;
-    width: auto;
+    width: 100%;
   }
   
   body{
