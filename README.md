@@ -26,7 +26,7 @@ A website to order and track pizza orders. Users should be able to order more th
 
 ## Setup/Installation Requirements
 
-* This repository is meant to be viewed. It can be viewed [here](https://Atticus29.github.io/pizzaOrder).
+* This repository is meant to be viewed. It can be viewed [here]().
 
 ### Or if you're feeling bold, you can clone OR download a local instance of the site:
 
