@@ -26,7 +26,7 @@ A website to order and track pizza orders. Users should be able to order more th
 
 ## Setup/Installation Requirements
 
-* This repository is meant to be viewed. It can be viewed [here]().
+* This repository is meant to be viewed here (https://github.com/Charlessciedel/Pizza-order/edit/gh-pages/README.md)
 
 ### Or if you're feeling bold, you can clone OR download a local instance of the site:
 
